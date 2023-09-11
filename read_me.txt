@@ -1,4 +1,13 @@
-run This command in terminal:
+#===========Admin Info======================
+#admin Id:admin
+#Password:admin
+#===========================================
+#==========views.py Info=============================================================
+#In this project we use django View class for performing CRUD operations. we are not using APIVIEW or ViewSet class.
+#=====================================================================================
+
+#===========For shell Info command======================
+#run This command in terminal:
 #Get object and convert in Python Native data type(dict) by serializers
 
 $ py manage.py shell
